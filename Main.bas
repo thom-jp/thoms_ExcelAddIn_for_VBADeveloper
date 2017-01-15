@@ -1,4 +1,8 @@
 Attribute VB_Name = "Main"
+'ìÒ: thom
+'ƒuƒƒO: http://thom.hateblo.jp/
+'Github: https://github.com/thom-jp/thoms_ExcelAddIn_for_VBADeveloper
+
 Private Menu As MenuCreator
 
 Public Sub Auto_Open()
